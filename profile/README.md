@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-<img src="./Our_Telekom-Logo-red.png">
+![alt text](https://github.com/ourtelekom/.github/tree/main/profile/Our_Telekom-Logo-red.png?raw=true)
+<!-- <img src="./Our_Telekom-Logo-red.png"> -->
 
 Welcome to Our Telekom's organization on GitHub.
