@@ -12,6 +12,6 @@
 -->
 
 
-![My Image](profile/Our_Telekom-Logo-red.png)
+![STCL Logo](https://github.com/ourtelekom/.github/tree/main/profile/Our_Telekom-Logo-red.svg) 
 
 Welcome to Our Telekom's organization on GitHub.
